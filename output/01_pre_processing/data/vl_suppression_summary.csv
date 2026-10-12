@@ -1,0 +1,1451 @@
+patient_id,n_tests,n_suppressed,suppression_rate
+Addis Ketema Health Center_617,1,1,1.0
+Addis Ketema Health Center_619,2,2,1.0
+Addis Ketema Health Center_621,2,2,1.0
+Addis Ketema Health Center_622,2,2,1.0
+Addis Ketema Health Center_623,2,2,1.0
+Addis Ketema Health Center_624,2,2,1.0
+Addis Ketema Health Center_625,2,2,1.0
+Addis Ketema Health Center_626,2,2,1.0
+Addis Ketema Health Center_627,2,2,1.0
+Addis Ketema Health Center_628,2,2,1.0
+Addis Ketema Health Center_629,2,2,1.0
+Addis Ketema Health Center_630,2,2,1.0
+Addis Ketema Health Center_631,2,2,1.0
+Addis Ketema Health Center_632,2,2,1.0
+Addis Ketema Health Center_633,2,2,1.0
+Addis Ketema Health Center_634,2,2,1.0
+Addis Ketema Health Center_635,2,2,1.0
+Addis Ketema Health Center_636,2,2,1.0
+Addis Ketema Health Center_637,1,1,1.0
+Addis Ketema Health Center_638,2,2,1.0
+Addis Ketema Health Center_639,2,2,1.0
+Addis Ketema Health Center_640,2,2,1.0
+Addis Ketema Health Center_641,2,2,1.0
+Addis Ketema Health Center_642,2,2,1.0
+Addis Ketema Health Center_643,2,2,1.0
+Addis Ketema Health Center_644,2,2,1.0
+Addis Ketema Health Center_645,2,2,1.0
+Addis Ketema Health Center_646,3,1,0.3333333333333333
+Addis Ketema Health Center_647,2,2,1.0
+Addis Ketema Health Center_648,2,2,1.0
+Addis Ketema Health Center_649,2,2,1.0
+Addis Ketema Health Center_650,2,2,1.0
+Addis Ketema Health Center_651,2,2,1.0
+Addis Ketema Health Center_652,2,2,1.0
+Addis Ketema Health Center_653,2,2,1.0
+Addis Ketema Health Center_654,2,2,1.0
+Addis Ketema Health Center_655,2,2,1.0
+Addis Ketema Health Center_656,2,2,1.0
+Addis Ketema Health Center_657,2,2,1.0
+Addis Ketema Health Center_658,2,2,1.0
+Addis Ketema Health Center_659,3,3,1.0
+Addis Ketema Health Center_660,2,2,1.0
+Addis Ketema Health Center_661,2,2,1.0
+Addis Ketema Health Center_662,2,2,1.0
+Addis Ketema Health Center_663,2,2,1.0
+Addis Ketema Health Center_664,2,2,1.0
+Addis Ketema Health Center_665,2,2,1.0
+Addis Ketema Health Center_666,2,1,0.5
+Addis Ketema Health Center_667,2,2,1.0
+Addis Ketema Health Center_668,2,2,1.0
+Addis Ketema Health Center_669,2,2,1.0
+Addis Ketema Health Center_670,2,2,1.0
+Addis Ketema Health Center_671,2,2,1.0
+Addis Ketema Health Center_672,2,2,1.0
+Addis Ketema Health Center_673,2,2,1.0
+Alert Hospital_11,1,0,0.0
+Alert Hospital_12,1,1,1.0
+Alert Hospital_13,1,0,0.0
+Alert Hospital_14,1,1,1.0
+Alert Hospital_15,1,0,0.0
+Alert Hospital_17,1,1,1.0
+Alert Hospital_19,1,0,0.0
+Alert Hospital_20,2,2,1.0
+Alert Hospital_22,1,0,0.0
+Alert Hospital_2297,1,1,1.0
+Alert Hospital_2298,1,1,1.0
+Alert Hospital_2300,1,1,1.0
+Alert Hospital_2302,1,1,1.0
+Alert Hospital_2363,2,1,0.5
+Alert Hospital_25,1,1,1.0
+Alert Hospital_27,1,0,0.0
+Alert Hospital_28,2,2,1.0
+Alert Hospital_29,1,1,1.0
+Alert Hospital_30,1,0,0.0
+Alert Hospital_31,2,2,1.0
+Alert Hospital_32,1,0,0.0
+Alert Hospital_33,1,0,0.0
+Alert Hospital_34,1,1,1.0
+Alert Hospital_35,1,0,0.0
+Alert Hospital_36,1,0,0.0
+Alert Hospital_37,1,1,1.0
+Alert Hospital_38,1,0,0.0
+Alert Hospital_39,1,0,0.0
+Alert Hospital_40,1,0,0.0
+Alert Hospital_41,1,0,0.0
+Alert Hospital_42,1,1,1.0
+Alert Hospital_44,1,1,1.0
+Alert Hospital_49,1,1,1.0
+Alert Hospital_675,1,0,0.0
+Alert Hospital_676,1,1,1.0
+Alert Hospital_684,1,1,1.0
+Alert Hospital_690,1,0,0.0
+Alert Hospital_9,1,1,1.0
+Arada Health Center_1442,1,1,1.0
+Arada Health Center_1444,1,1,1.0
+Arada Health Center_1452,1,1,1.0
+Arada Health Center_1453,1,1,1.0
+Arada Health Center_1454,1,1,1.0
+Arada Health Center_1455,1,1,1.0
+Arada Health Center_1456,1,1,1.0
+Arada Health Center_1457,1,1,1.0
+Arada Health Center_1459,1,1,1.0
+Arada Health Center_1460,1,0,0.0
+Arada Health Center_1463,1,1,1.0
+Arada Health Center_1464,1,1,1.0
+Arada Health Center_2217,1,0,0.0
+Arada Health Center_2219,1,1,1.0
+Arada Health Center_2220,1,1,1.0
+Arada Health Center_2221,1,1,1.0
+Arada Health Center_2222,1,1,1.0
+Arada Health Center_2226,2,1,0.5
+Arada Health Center_2227,1,0,0.0
+Arada Health Center_2229,1,0,0.0
+Arada Health Center_2230,1,0,0.0
+Arada Health Center_2232,2,1,0.5
+Arada Health Center_2236,1,1,1.0
+Arada Health Center_292,1,1,1.0
+Arada Health Center_294,1,1,1.0
+Arada Health Center_699,1,1,1.0
+Arada Health Center_701,1,0,0.0
+Arada Health Center_702,1,1,1.0
+Arada Health Center_704,1,0,0.0
+Arada Health Center_707,1,0,0.0
+Arada Health Center_714,1,1,1.0
+Arada Health Center_718,1,1,1.0
+Arada Health Center_722,1,0,0.0
+Arada Health Center_723,1,1,1.0
+Arada Health Center_727,1,0,0.0
+Arada Health Center_732,1,1,1.0
+Arada Health Center_734,1,1,1.0
+Arada Health center_2455,1,0,0.0
+Black Lion Hospital_1000,2,1,0.5
+Black Lion Hospital_1001,1,1,1.0
+Black Lion Hospital_1002,2,2,1.0
+Black Lion Hospital_1003,2,1,0.5
+Black Lion Hospital_1004,2,2,1.0
+Black Lion Hospital_1005,3,1,0.3333333333333333
+Black Lion Hospital_1011,2,2,1.0
+Black Lion Hospital_1012,1,1,1.0
+Black Lion Hospital_1013,2,0,0.0
+Black Lion Hospital_1014,3,3,1.0
+Black Lion Hospital_1015,3,3,1.0
+Black Lion Hospital_1017,1,1,1.0
+Black Lion Hospital_173,1,1,1.0
+Black Lion Hospital_2373,2,2,1.0
+Black Lion Hospital_2374,1,1,1.0
+Black Lion Hospital_2375,1,1,1.0
+Black Lion Hospital_2376,1,1,1.0
+Black Lion Hospital_2380,1,1,1.0
+Black Lion Hospital_2381,2,2,1.0
+Black Lion Hospital_2382,1,1,1.0
+Black Lion Hospital_2385,1,1,1.0
+Black Lion Hospital_2387,1,0,0.0
+Black Lion Hospital_2391,1,0,0.0
+Black Lion Hospital_2392,2,0,0.0
+Black Lion Hospital_2400,1,0,0.0
+Black Lion Hospital_2464,1,1,1.0
+Black Lion Hospital_2470,1,1,1.0
+Black Lion Hospital_2474,2,2,1.0
+Black Lion Hospital_2475,2,2,1.0
+Black Lion Hospital_2476,1,1,1.0
+Black Lion Hospital_2477,1,1,1.0
+Black Lion Hospital_2478,1,1,1.0
+Black Lion Hospital_2479,2,1,0.5
+Black Lion Hospital_2480,2,1,0.5
+Black Lion Hospital_2481,2,1,0.5
+Black Lion Hospital_2482,1,1,1.0
+Black Lion Hospital_2483,1,1,1.0
+Black Lion Hospital_2484,3,2,0.6666666666666666
+Black Lion Hospital_2485,2,2,1.0
+Black Lion Hospital_2486,1,1,1.0
+Black Lion Hospital_2491,1,1,1.0
+Black Lion Hospital_2494,2,0,0.0
+Black Lion Hospital_2495,2,1,0.5
+Black Lion Hospital_2496,1,1,1.0
+Black Lion Hospital_2497,1,1,1.0
+Black Lion Hospital_2498,2,2,1.0
+Black Lion Hospital_2499,2,2,1.0
+Black Lion Hospital_2501,1,1,1.0
+Black Lion Hospital_2502,1,1,1.0
+Black Lion Hospital_2504,1,1,1.0
+Black Lion Hospital_2505,1,1,1.0
+Black Lion Hospital_275,1,0,0.0
+Black Lion Hospital_277,1,0,0.0
+Black Lion Hospital_991,1,1,1.0
+Black Lion Hospital_992,1,1,1.0
+Black Lion Hospital_993,1,1,1.0
+Black Lion Hospital_996,1,1,1.0
+Black Lion Hospital_999,2,1,0.5
+Bole 17 Health Center_1699,1,1,1.0
+Bole 17 Health Center_1700,1,1,1.0
+Bole 17 Health Center_1701,1,1,1.0
+Bole 17 Health Center_1702,2,2,1.0
+Bole 17 Health Center_1703,1,1,1.0
+Bole 17 Health Center_1704,1,1,1.0
+Bole 17 Health Center_1705,1,0,0.0
+Bole 17 Health Center_1706,1,1,1.0
+Bole 17 Health Center_1707,1,1,1.0
+Bole 17 Health Center_1708,1,1,1.0
+Bole 17 Health Center_1709,2,1,0.5
+Bole 17 Health Center_1710,2,2,1.0
+Bole 17 Health Center_1711,2,2,1.0
+Bole 17 Health Center_1712,1,1,1.0
+Bole 17 Health Center_1713,1,1,1.0
+Bole 17 Health Center_1714,1,1,1.0
+Bole 17 Health Center_1715,2,2,1.0
+Bole 17 Health Center_1716,1,1,1.0
+Bole 17 Health Center_1717,2,1,0.5
+Bole 17 Health Center_1718,2,1,0.5
+Bole 17 Health Center_1719,2,1,0.5
+Bole 17 Health Center_1720,2,2,1.0
+Bole 17 Health Center_1721,2,2,1.0
+Bole 17 Health Center_1723,1,1,1.0
+Bole 17 Health Center_1724,1,1,1.0
+Bole 17 Health Center_1725,1,1,1.0
+Bole 17 Health Center_1726,1,1,1.0
+Bole 17 Health Center_1727,1,1,1.0
+Bole 17 Health Center_1728,1,1,1.0
+Bole 17 Health Center_1729,1,1,1.0
+Bole 17 Health Center_1730,1,1,1.0
+Bole 17 Health Center_1731,1,1,1.0
+Bole 17 Health Center_1732,2,2,1.0
+Bole 17 Health Center_1733,1,1,1.0
+Bole 17 Health Center_1734,1,1,1.0
+Bole 17 Health Center_1770,1,1,1.0
+Bole 17 Health Center_1771,1,0,0.0
+Bole 17 Health Center_227,1,1,1.0
+Bole 17 Health Center_231,1,1,1.0
+Bole 17 Health Center_232,1,1,1.0
+Bole 17 Health Center_233,2,1,0.5
+Bole 17 Health Center_234,2,2,1.0
+Bole 17 Health Center_235,1,1,1.0
+Bole 17 Health Center_236,1,1,1.0
+Bole 17 Health Center_237,1,1,1.0
+Bole 17 Health Center_240,1,1,1.0
+Bole 17 Health Center_241,1,1,1.0
+Bole 17 Health Center_242,1,1,1.0
+Bole 17 Health Center_243,1,1,1.0
+Bole 17 Health Center_244,2,1,0.5
+Bole 17 Health Center_245,1,1,1.0
+Bole 17 Health Center_246,1,1,1.0
+Bole 17 Health Center_248,1,1,1.0
+Gandhi Memorial Hospital_319,1,1,1.0
+Gandhi Memorial Hospital_321,2,2,1.0
+Gandhi Memorial Hospital_324,1,1,1.0
+Gandhi Memorial Hospital_326,1,1,1.0
+Gandhi Memorial Hospital_327,1,1,1.0
+Gandhi Memorial Hospital_330,1,1,1.0
+Gandhi Memorial Hospital_337,1,1,1.0
+Gandhi Memorial Hospital_343,1,1,1.0
+Gandhi Memorial Hospital_345,1,1,1.0
+Gandhi Memorial Hospital_350,1,1,1.0
+Gandhi Memorial Hospital_353,1,1,1.0
+Gandhi Memorial Hospital_354,1,1,1.0
+Gandhi Memorial Hospital_355,1,1,1.0
+Gandhi Memorial Hospital_356,2,2,1.0
+Gandhi Memorial Hospital_357,2,2,1.0
+Gandhi Memorial Hospital_358,1,1,1.0
+Gandhi Memorial Hospital_363,1,1,1.0
+Gandhi Memorial Hospital_370,2,1,0.5
+Gandhi Memorial Hospital_372,1,1,1.0
+Gandhi Memorial Hospital_373,1,1,1.0
+Gandhi Memorial Hospital_375,1,1,1.0
+Gandhi Memorial Hospital_376,1,1,1.0
+Gandhi Memorial Hospital_377,2,2,1.0
+Gandhi Memorial Hospital_378,1,1,1.0
+Gandhi Memorial Hospital_379,1,1,1.0
+Gandhi Memorial Hospital_380,1,1,1.0
+Gandhi Memorial Hospital_381,1,1,1.0
+Gandhi Memorial Hospital_382,2,2,1.0
+Gandhi Memorial Hospital_383,1,1,1.0
+Gandhi Memorial Hospital_384,2,1,0.5
+Gandhi Memorial Hospital_386,1,1,1.0
+Gandhi Memorial Hospital_387,1,0,0.0
+Gandhi Memorial Hospital_388,1,1,1.0
+Gandhi Memorial Hospital_389,1,1,1.0
+Gandhi Memorial Hospital_391,1,1,1.0
+Gandhi Memorial Hospital_392,1,1,1.0
+Gandhi Memorial Hospital_395,3,0,0.0
+Gandhi Memorial Hospital_396,1,1,1.0
+Gandhi Memorial Hospital_399,2,2,1.0
+Gandhi Memorial Hospital_400,1,1,1.0
+Gandhi Memorial Hospital_401,1,1,1.0
+Gandhi Memorial Hospital_402,1,1,1.0
+Gandhi Memorial Hospital_421,1,1,1.0
+Gandhi Memorial Hospital_422,1,1,1.0
+Gandhi Memorial Hospital_425,1,1,1.0
+Gandhi Memorial Hospital_427,1,1,1.0
+Gandhi Memorial Hospital_428,1,1,1.0
+Gandhi Memorial Hospital_429,1,1,1.0
+Gandhi Memorial Hospital_432,1,1,1.0
+Gandhi Memorial Hospital_433,1,1,1.0
+Gandhi Memorial Hospital_434,1,1,1.0
+Gandhi Memorial Hospital_436,1,1,1.0
+Gandhi Memorial Hospital_437,1,1,1.0
+Gandhi Memorial Hospital_438,1,1,1.0
+Gandhi Memorial Hospital_439,1,1,1.0
+Gandhi Memorial Hospital_440,1,0,0.0
+Gandhi Memorial Hospital_441,1,1,1.0
+Gandhi Memorial Hospital_442,2,1,0.5
+Gandhi Memorial Hospital_444,1,1,1.0
+Gandhi Memorial Hospital_445,1,1,1.0
+Gandhi Memorial Hospital_446,1,1,1.0
+Gandhi Memorial Hospital_50,1,1,1.0
+Gandhi Memorial Hospital_51,1,1,1.0
+Gandhi Memorial Hospital_52,1,1,1.0
+Gandhi Memorial Hospital_53,1,0,0.0
+Gandhi Memorial Hospital_54,1,0,0.0
+Gandhi Memorial Hospital_56,5,0,0.0
+Gandhi Memorial Hospital_57,1,1,1.0
+Gandhi Memorial Hospital_58,1,1,1.0
+Gandhi Memorial Hospital_59,2,2,1.0
+Kaliti Health Center_123,1,1,1.0
+Kaliti Health Center_1377,1,1,1.0
+Kaliti Health Center_1378,1,1,1.0
+Kaliti Health Center_1379,1,1,1.0
+Kaliti Health Center_1380,1,1,1.0
+Kaliti Health Center_1381,1,1,1.0
+Kaliti Health Center_1384,1,1,1.0
+Kaliti Health Center_1385,1,0,0.0
+Kaliti Health Center_1386,1,1,1.0
+Kaliti Health Center_1387,1,1,1.0
+Kaliti Health Center_142,1,1,1.0
+Kaliti Health Center_143,1,1,1.0
+Kaliti Health Center_1436,1,1,1.0
+Kaliti Health Center_145,1,1,1.0
+Kaliti Health Center_1841,1,1,1.0
+Kaliti Health Center_1843,1,1,1.0
+Kaliti Health Center_1844,1,1,1.0
+Kaliti Health Center_1845,1,1,1.0
+Kaliti Health Center_1958,1,1,1.0
+Kazanchis Health Center_1913,2,2,1.0
+Kazanchis Health Center_1914,1,1,1.0
+Kazanchis Health Center_1915,2,2,1.0
+Kazanchis Health Center_1916,2,2,1.0
+Kazanchis Health Center_1917,2,2,1.0
+Kazanchis Health Center_1918,2,2,1.0
+Kazanchis Health Center_1919,1,1,1.0
+Kazanchis Health Center_1920,2,2,1.0
+Kazanchis Health Center_1921,1,1,1.0
+Kazanchis Health Center_1922,1,1,1.0
+Kazanchis Health Center_1923,1,1,1.0
+Kazanchis Health Center_1924,2,2,1.0
+Kazanchis Health Center_1925,2,2,1.0
+Kazanchis Health Center_1926,3,3,1.0
+Kazanchis Health Center_1927,3,2,0.6666666666666666
+Kazanchis Health Center_1928,1,1,1.0
+Kazanchis Health Center_1929,1,1,1.0
+Kazanchis Health Center_1930,3,2,0.6666666666666666
+Kazanchis Health Center_1931,2,2,1.0
+Kazanchis Health Center_1932,2,2,1.0
+Kazanchis Health Center_1933,2,2,1.0
+Kazanchis Health Center_1934,3,2,0.6666666666666666
+Kazanchis Health Center_1935,3,2,0.6666666666666666
+Kazanchis Health Center_1936,2,2,1.0
+Kazanchis Health Center_1937,2,2,1.0
+Kazanchis Health Center_1938,3,3,1.0
+Kazanchis Health Center_1939,2,1,0.5
+Kazanchis Health Center_1940,2,2,1.0
+Kazanchis Health Center_1941,2,2,1.0
+Kazanchis Health Center_1942,2,1,0.5
+Kazanchis Health Center_1943,2,2,1.0
+Kazanchis Health Center_1944,2,2,1.0
+Kazanchis Health Center_1945,2,2,1.0
+Kazanchis Health Center_1946,2,2,1.0
+Kazanchis Health Center_1947,2,2,1.0
+Kazanchis Health Center_1948,2,2,1.0
+Kazanchis Health Center_1949,2,1,0.5
+Kazanchis Health Center_1950,1,1,1.0
+Kazanchis Health Center_1951,2,2,1.0
+Kazanchis Health Center_1952,1,1,1.0
+Kazanchis Health Center_1953,1,1,1.0
+Kazanchis Health Center_1954,2,2,1.0
+Kazanchis Health Center_1955,1,1,1.0
+Kazanchis Health Center_1956,3,1,0.3333333333333333
+Kazanchis Health Center_1957,1,1,1.0
+Kazanchis Health Center_1959,5,1,0.2
+Kazanchis Health Center_1960,2,0,0.0
+Kazanchis Health Center_1961,1,1,1.0
+Kazanchis Health Center_1962,2,2,1.0
+Kazanchis Health Center_1963,2,2,1.0
+Kazanchis Health Center_1964,1,1,1.0
+Kazanchis Health Center_1965,1,1,1.0
+Kazanchis Health Center_1966,1,1,1.0
+Kazanchis Health Center_1967,1,1,1.0
+Kazanchis Health Center_1968,2,2,1.0
+Kazanchis Health Center_1969,1,1,1.0
+Kazanchis Health Center_1970,2,1,0.5
+Kazanchis Health Center_1971,1,1,1.0
+Kolfe Health Center_125,1,1,1.0
+Kolfe Health Center_1271,1,0,0.0
+Kolfe Health Center_1325,1,1,1.0
+Kolfe Health Center_1326,1,1,1.0
+Kolfe Health Center_1328,1,1,1.0
+Kolfe Health Center_1329,1,1,1.0
+Kolfe Health Center_1330,1,1,1.0
+Kolfe Health Center_1332,1,0,0.0
+Kolfe Health Center_1333,1,1,1.0
+Kolfe Health Center_1336,1,1,1.0
+Kolfe Health Center_1340,1,1,1.0
+Kolfe Health Center_1342,1,1,1.0
+Kolfe Health Center_1344,1,1,1.0
+Kolfe Health Center_1347,1,1,1.0
+Kolfe Health Center_1354,1,1,1.0
+Kolfe Health Center_1366,1,1,1.0
+Kolfe Health Center_1367,1,1,1.0
+Kolfe Health Center_137,1,1,1.0
+Kolfe Health Center_1374,1,1,1.0
+Kolfe Health Center_138,2,1,0.5
+Kolfe Health Center_139,1,1,1.0
+Kolfe Health Center_140,1,1,1.0
+Kolfe Health Center_172,1,1,1.0
+Kolfe Health Center_177,1,1,1.0
+Kotebe Health Center_1075,1,1,1.0
+Kotebe Health Center_1076,1,1,1.0
+Kotebe Health Center_1077,1,1,1.0
+Kotebe Health Center_1078,1,1,1.0
+Kotebe Health Center_1079,3,3,1.0
+Kotebe Health Center_1080,2,2,1.0
+Kotebe Health Center_1082,1,1,1.0
+Kotebe Health Center_1083,1,1,1.0
+Kotebe Health Center_1085,1,1,1.0
+Kotebe Health Center_1091,1,1,1.0
+Kotebe Health Center_1094,1,1,1.0
+Kotebe Health Center_1095,1,1,1.0
+Kotebe Health Center_1096,1,1,1.0
+Kotebe Health Center_1097,1,1,1.0
+Kotebe Health Center_1098,1,1,1.0
+Kotebe Health Center_1100,1,1,1.0
+Kotebe Health Center_1101,2,2,1.0
+Kotebe Health Center_1102,1,1,1.0
+Kotebe Health Center_1103,2,2,1.0
+Kotebe Health Center_1104,1,1,1.0
+Kotebe Health Center_1105,1,1,1.0
+Kotebe Health Center_1106,1,1,1.0
+Kotebe Health Center_1108,1,1,1.0
+Kotebe Health Center_1109,1,1,1.0
+Kotebe Health Center_1110,1,1,1.0
+Kotebe Health Center_1111,2,2,1.0
+Kotebe Health Center_1112,2,2,1.0
+Kotebe Health Center_1113,1,1,1.0
+Kotebe Health Center_1114,1,1,1.0
+Kotebe Health Center_1115,2,1,0.5
+Kotebe Health Center_1116,1,1,1.0
+Kotebe Health Center_1118,1,1,1.0
+Kotebe Health Center_1119,1,1,1.0
+Kotebe Health Center_1120,1,0,0.0
+Kotebe Health Center_1121,1,0,0.0
+Kotebe Health Center_1122,2,2,1.0
+Kotebe Health Center_1123,1,1,1.0
+Kotebe Health Center_1124,2,2,1.0
+Kotebe Health Center_1126,2,2,1.0
+Kotebe Health Center_1127,1,1,1.0
+Kotebe Health Center_1128,1,0,0.0
+Kotebe Health Center_1129,1,1,1.0
+Kotebe Health Center_1130,1,1,1.0
+Kotebe Health Center_1132,1,0,0.0
+Kotebe Health Center_1133,1,1,1.0
+Kotebe Health Center_1134,2,2,1.0
+Kotebe Health Center_1135,1,1,1.0
+Kotebe Health Center_1136,1,1,1.0
+Kotebe Health Center_1137,1,1,1.0
+Kotebe Health Center_1139,1,1,1.0
+Kotebe Health Center_1140,1,1,1.0
+Kotebe Health Center_1141,1,1,1.0
+Kotebe Health Center_1142,1,1,1.0
+Kotebe Health Center_1143,1,1,1.0
+Kotebe Health Center_1144,1,1,1.0
+Kotebe Health Center_1145,2,2,1.0
+Kotebe Health Center_2071,1,1,1.0
+Kotebe Health Center_2072,1,1,1.0
+Kotebe Health Center_2074,1,0,0.0
+Kotebe Health Center_2079,1,1,1.0
+Kotebe Health Center_2082,1,1,1.0
+Kotebe Health Center_2083,1,1,1.0
+Kotebe Health Center_2087,1,0,0.0
+Kotebe Health Center_2088,1,0,0.0
+Kotebe Health Center_2089,2,1,0.5
+Kotebe Health Center_2092,2,2,1.0
+Kotebe Health Center_2099,1,0,0.0
+Kotebe Health Center_2103,1,0,0.0
+Kotebe Health Center_2104,1,1,1.0
+Kotebe Health Center_2108,1,1,1.0
+Kotebe Health Center_2109,1,1,1.0
+Kotebe Health Center_2110,1,1,1.0
+Kotebe Health Center_2113,1,1,1.0
+Kotebe Health Center_2117,1,1,1.0
+Kotebe Health Center_2118,1,0,0.0
+Kotebe Health Center_2119,1,1,1.0
+Kotebe Health Center_2123,1,1,1.0
+Kotebe Health Center_2124,1,1,1.0
+Kotebe Health Center_2125,1,1,1.0
+Kotebe Health Center_2126,1,1,1.0
+Kotebe Health Center_2127,1,1,1.0
+Kotebe Health Center_2128,2,1,0.5
+Kotebe Health Center_2129,1,1,1.0
+Kotebe Health Center_2130,1,1,1.0
+Kotebe Health Center_2131,1,1,1.0
+Kotebe Health Center_2134,1,1,1.0
+Kotebe Health Center_2137,1,1,1.0
+Kotebe Health Center_2139,1,1,1.0
+Kotebe Health Center_2140,1,1,1.0
+Kotebe Health Center_2141,1,1,1.0
+Kotebe Health Center_2142,1,0,0.0
+Kotebe Health Center_2146,1,1,1.0
+Kotebe Health Center_2147,1,1,1.0
+Kotebe Health Center_2148,1,1,1.0
+Kotebe Health Center_2149,1,1,1.0
+Kotebe Health Center_2150,1,1,1.0
+Kotebe Health Center_2152,1,1,1.0
+Kotebe Health Center_2153,1,1,1.0
+Kotebe Health Center_2154,1,1,1.0
+Kotebe Health Center_2155,1,1,1.0
+Kotebe Health Center_2157,1,0,0.0
+Kotebe Health Center_2158,1,1,1.0
+Kotebe Health Center_2159,1,1,1.0
+Kotebe Health Center_2262,1,0,0.0
+Kotebe Health Center_2263,1,1,1.0
+Kotebe Health Center_2265,1,1,1.0
+Kotebe Health Center_2266,1,1,1.0
+Kotebe Health Center_2293,1,1,1.0
+Kotebe Health Center_2364,2,1,0.5
+Kotebe Health Center_2365,1,1,1.0
+Kotebe Health Center_2367,1,1,1.0
+MeneliK Hospital_2190,2,2,1.0
+Menelik  Hospital_2437,2,2,1.0
+Menelik  Hospital_2438,1,1,1.0
+Menelik  Hospital_2439,2,2,1.0
+Menelik  Hospital_2440,2,2,1.0
+Menelik  Hospital_2441,2,2,1.0
+Menelik  Hospital_2442,1,1,1.0
+Menelik  Hospital_2443,2,2,1.0
+Menelik  Hospital_2444,2,2,1.0
+Menelik  Hospital_2445,2,2,1.0
+Menelik  Hospital_2446,2,2,1.0
+Menelik  Hospital_2447,2,2,1.0
+Menelik  Hospital_2448,1,1,1.0
+Menelik  Hospital_2450,2,2,1.0
+Menelik  Hospital_2451,1,1,1.0
+Menelik Hospital_100,2,2,1.0
+Menelik Hospital_101,2,2,1.0
+Menelik Hospital_102,4,2,0.5
+Menelik Hospital_103,2,2,1.0
+Menelik Hospital_104,1,1,1.0
+Menelik Hospital_105,3,3,1.0
+Menelik Hospital_106,3,3,1.0
+Menelik Hospital_107,2,2,1.0
+Menelik Hospital_108,3,2,0.6666666666666666
+Menelik Hospital_109,1,1,1.0
+Menelik Hospital_2189,2,2,1.0
+Menelik Hospital_2192,3,0,0.0
+Menelik Hospital_2193,2,2,1.0
+Menelik Hospital_2194,2,2,1.0
+Menelik Hospital_2195,1,1,1.0
+Menelik Hospital_2196,1,1,1.0
+Menelik Hospital_2197,1,1,1.0
+Menelik Hospital_2198,2,2,1.0
+Menelik Hospital_2199,2,2,1.0
+Menelik Hospital_2209,1,1,1.0
+Menelik Hospital_2210,1,1,1.0
+Menelik Hospital_2211,2,2,1.0
+Menelik Hospital_2212,2,2,1.0
+Menelik Hospital_2213,2,2,1.0
+Menelik Hospital_2215,2,2,1.0
+Menelik Hospital_2216,2,2,1.0
+Menelik Hospital_2245,2,2,1.0
+Menelik Hospital_2247,2,2,1.0
+Menelik Hospital_2248,2,1,0.5
+Menelik Hospital_2267,2,2,1.0
+Menelik Hospital_2268,2,2,1.0
+Menelik Hospital_2270,2,0,0.0
+Menelik Hospital_2271,2,2,1.0
+Menelik Hospital_2272,2,2,1.0
+Menelik Hospital_2276,2,2,1.0
+Menelik Hospital_2278,2,2,1.0
+Menelik Hospital_2279,2,1,0.5
+Menelik Hospital_2280,2,2,1.0
+Menelik Hospital_2281,1,1,1.0
+Menelik Hospital_2282,2,2,1.0
+Menelik Hospital_2283,2,2,1.0
+Menelik Hospital_2284,2,2,1.0
+Menelik Hospital_2285,2,2,1.0
+Menelik Hospital_2286,3,3,1.0
+Menelik Hospital_2287,2,2,1.0
+Menelik Hospital_2288,2,2,1.0
+Menelik Hospital_2289,2,2,1.0
+Menelik Hospital_2309,2,2,1.0
+Menelik Hospital_2310,2,2,1.0
+Menelik Hospital_2311,2,2,1.0
+Menelik Hospital_2312,2,2,1.0
+Menelik Hospital_2313,2,2,1.0
+Menelik Hospital_2314,2,2,1.0
+Menelik Hospital_2316,2,2,1.0
+Menelik Hospital_2317,2,2,1.0
+Menelik Hospital_2318,2,2,1.0
+Menelik Hospital_2319,2,2,1.0
+Menelik Hospital_2325,2,2,1.0
+Menelik Hospital_2328,1,1,1.0
+Menelik Hospital_2329,1,1,1.0
+Menelik Hospital_2330,2,2,1.0
+Menelik Hospital_2331,2,2,1.0
+Menelik Hospital_2332,2,2,1.0
+Menelik Hospital_2334,2,2,1.0
+Menelik Hospital_2335,2,2,1.0
+Menelik Hospital_2336,2,2,1.0
+Menelik Hospital_2337,2,2,1.0
+Menelik Hospital_2338,2,1,0.5
+Menelik Hospital_2339,2,2,1.0
+Menelik Hospital_2340,1,1,1.0
+Menelik Hospital_2341,3,3,1.0
+Menelik Hospital_2342,1,1,1.0
+Menelik Hospital_2344,1,0,0.0
+Menelik Hospital_2345,2,2,1.0
+Menelik Hospital_2346,2,2,1.0
+Menelik Hospital_2347,2,2,1.0
+Menelik Hospital_2348,2,1,0.5
+Menelik Hospital_2349,2,2,1.0
+Menelik Hospital_2350,2,2,1.0
+Menelik Hospital_2351,2,2,1.0
+Menelik Hospital_2352,2,2,1.0
+Menelik Hospital_2353,2,2,1.0
+Menelik Hospital_2354,2,2,1.0
+Menelik Hospital_2355,2,2,1.0
+Menelik Hospital_2356,2,2,1.0
+Menelik Hospital_2357,2,2,1.0
+Menelik Hospital_2358,2,2,1.0
+Menelik Hospital_2359,2,2,1.0
+Menelik Hospital_2361,3,2,0.6666666666666666
+Menelik Hospital_2362,3,0,0.0
+Menelik Hospital_2369,1,1,1.0
+Menelik Hospital_60,1,1,1.0
+Menelik Hospital_61,2,1,0.5
+Menelik Hospital_62,1,1,1.0
+Menelik Hospital_64,1,1,1.0
+Menelik Hospital_65,1,1,1.0
+Menelik Hospital_67,1,1,1.0
+Menelik Hospital_68,1,1,1.0
+Menelik Hospital_70,1,1,1.0
+Menelik Hospital_72,1,1,1.0
+Menelik Hospital_73,2,1,0.5
+Menelik Hospital_74,1,1,1.0
+Menelik Hospital_75,1,1,1.0
+Menelik Hospital_78,1,1,1.0
+Menelik Hospital_79,1,1,1.0
+Menelik Hospital_80,3,2,0.6666666666666666
+Menelik Hospital_81,2,2,1.0
+Menelik Hospital_82,3,3,1.0
+Menelik Hospital_83,3,3,1.0
+Menelik Hospital_84,3,2,0.6666666666666666
+Menelik Hospital_85,3,2,0.6666666666666666
+Menelik Hospital_86,1,1,1.0
+Menelik Hospital_87,4,3,0.75
+Menelik Hospital_88,3,1,0.3333333333333333
+Menelik Hospital_89,4,2,0.5
+Menelik Hospital_90,3,2,0.6666666666666666
+Menelik Hospital_91,3,3,1.0
+Menelik Hospital_92,3,2,0.6666666666666666
+Menelik Hospital_93,2,2,1.0
+Menelik Hospital_94,2,2,1.0
+Menelik Hospital_95,4,4,1.0
+Menelik Hospital_96,2,1,0.5
+Menelik Hospital_97,3,0,0.0
+Menelik Hospital_98,3,3,1.0
+Menelik Hospital_99,3,3,1.0
+Police Hospital_1,1,0,0.0
+Police Hospital_1021,2,1,0.5
+Police Hospital_1023,2,0,0.0
+Police Hospital_1024,1,1,1.0
+Police Hospital_1028,1,0,0.0
+Police Hospital_1029,1,0,0.0
+Police Hospital_1030,1,0,0.0
+Police Hospital_1031,1,0,0.0
+Police Hospital_1032,1,1,1.0
+Police Hospital_1035,1,0,0.0
+Police Hospital_1036,1,1,1.0
+Police Hospital_1037,2,1,0.5
+Police Hospital_1038,1,1,1.0
+Police Hospital_1039,1,1,1.0
+Police Hospital_1040,2,1,0.5
+Police Hospital_1041,1,0,0.0
+Police Hospital_2,1,0,0.0
+Police Hospital_2175,1,0,0.0
+Police Hospital_2177,2,1,0.5
+Police Hospital_2179,2,1,0.5
+Police Hospital_2180,2,1,0.5
+Police Hospital_2181,1,1,1.0
+Police Hospital_2182,2,1,0.5
+Police Hospital_2183,1,1,1.0
+Police Hospital_2184,1,1,1.0
+Police Hospital_2185,1,1,1.0
+Police Hospital_2186,1,1,1.0
+Police Hospital_2187,2,1,0.5
+Police Hospital_2188,1,0,0.0
+Police Hospital_2191,2,2,1.0
+Police Hospital_2249,1,0,0.0
+Police Hospital_2250,1,0,0.0
+Police Hospital_2251,1,1,1.0
+Police Hospital_2253,1,1,1.0
+Police Hospital_2255,1,1,1.0
+Police Hospital_2257,1,1,1.0
+Police Hospital_2260,2,1,0.5
+Police Hospital_2261,2,0,0.0
+Police Hospital_3,1,1,1.0
+Police Hospital_4,1,1,1.0
+Police Hospital_404,1,1,1.0
+Police Hospital_405,1,1,1.0
+Police Hospital_406,2,1,0.5
+Police Hospital_407,2,1,0.5
+Police Hospital_408,1,1,1.0
+Police Hospital_409,1,1,1.0
+Police Hospital_412,2,1,0.5
+Police Hospital_413,1,1,1.0
+Police Hospital_414,1,0,0.0
+Police Hospital_415,1,1,1.0
+Police Hospital_416,2,1,0.5
+Police Hospital_417,2,0,0.0
+Police Hospital_418,2,1,0.5
+Police Hospital_45,2,1,0.5
+Police Hospital_46,1,1,1.0
+Police Hospital_47,1,1,1.0
+Police Hospital_48,1,0,0.0
+Police Hospital_738,1,0,0.0
+Police Hospital_740,1,0,0.0
+Police Hospital_741,1,0,0.0
+Police Hospital_743,1,1,1.0
+Police Hospital_744,1,1,1.0
+Police Hospital_745,1,1,1.0
+Police Hospital_746,1,0,0.0
+Police Hospital_747,1,0,0.0
+Police Hospital_748,1,1,1.0
+Police Hospital_749,1,0,0.0
+Police Hospital_750,1,0,0.0
+Police Hospital_751,1,0,0.0
+Police Hospital_752,1,0,0.0
+Police Hospital_753,1,0,0.0
+Police Hospital_755,1,1,1.0
+Police Hospital_756,1,1,1.0
+Police Hospital_757,1,0,0.0
+Police Hospital_758,1,1,1.0
+Police Hospital_759,1,0,0.0
+Police Hospital_760,1,1,1.0
+Police Hospital_761,3,0,0.0
+Police Hospital_763,1,1,1.0
+Police Hospital_764,1,1,1.0
+Police Hospital_765,1,0,0.0
+Police Hospital_767,2,2,1.0
+Police Hospital_768,1,1,1.0
+Police Hospital_769,2,0,0.0
+Police Hospital_770,3,0,0.0
+Police Hospital_771,1,0,0.0
+Police Hospital_773,1,1,1.0
+Police Hospital_774,1,1,1.0
+Police Hospital_775,1,1,1.0
+Police Hospital_777,1,0,0.0
+Police Hospital_778,1,1,1.0
+Police Hospital_779,1,1,1.0
+Police Hospital_780,2,1,0.5
+Police Hospital_781,1,1,1.0
+Police Hospital_782,1,1,1.0
+Police Hospital_783,3,3,1.0
+Police Hospital_784,1,1,1.0
+Police Hospital_785,3,2,0.6666666666666666
+Police Hospital_786,1,0,0.0
+Police Hospital_787,1,1,1.0
+Police Hospital_788,1,0,0.0
+Police Hospital_789,1,1,1.0
+Police Hospital_790,1,1,1.0
+Police Hospital_791,1,1,1.0
+Police Hospital_792,2,0,0.0
+Police Hospital_793,1,1,1.0
+Police Hospital_794,1,0,0.0
+Police Hospital_796,1,1,1.0
+Police Hospital_799,1,1,1.0
+Police Hospital_801,2,0,0.0
+Police Hospital_805,1,1,1.0
+Police Hospital_806,1,1,1.0
+Police Hospital_808,1,1,1.0
+Police Hospital_809,2,1,0.5
+Police Hospital_811,1,0,0.0
+Police Hospital_812,2,0,0.0
+Police Hospital_844,1,0,0.0
+Police Hospital_845,3,0,0.0
+Police Hospital_846,1,1,1.0
+Police Hospital_856,1,1,1.0
+Police Hospital_857,1,0,0.0
+Police Hospital_859,1,0,0.0
+Police Hospital_860,1,1,1.0
+Police Hospital_861,1,0,0.0
+Police Hospital_862,1,0,0.0
+Police Hospital_863,1,0,0.0
+Police Hospital_865,1,0,0.0
+Police Hospital_867,1,1,1.0
+Police Hospital_868,2,2,1.0
+Police Hospital_869,1,0,0.0
+Police Hospital_870,1,1,1.0
+Police Hospital_871,1,0,0.0
+Police Hospital_872,1,1,1.0
+Police Hospital_873,1,0,0.0
+Ras Desta Hospital_1993,1,0,0.0
+Ras Desta Hospital_1995,1,0,0.0
+Ras Desta Hospital_1997,1,1,1.0
+Ras Desta Hospital_1999,1,1,1.0
+Ras Desta Hospital_2000,1,1,1.0
+Ras Desta Hospital_2045,1,0,0.0
+Ras Desta Hospital_2049,1,1,1.0
+Ras Desta Hospital_2056,1,1,1.0
+Ras Desta Hospital_2068,1,1,1.0
+Ras Desta Hospital_2201,1,1,1.0
+Ras Desta Hospital_2274,1,1,1.0
+SPHMMC_1909,1,1,1.0
+SPHMMC_1910,1,1,1.0
+SPHMMC_1912,1,1,1.0
+Saries Health Center_1249,1,1,1.0
+Saries Health Center_1250,2,1,0.5
+Saries Health Center_1774,1,1,1.0
+Saries Health Center_1775,1,1,1.0
+Saries Health Center_1776,1,1,1.0
+Saries Health Center_1777,1,1,1.0
+Saries Health Center_1778,1,1,1.0
+Saries Health Center_1779,1,1,1.0
+Saries Health Center_1781,1,1,1.0
+Saries Health Center_1782,1,1,1.0
+Saries Health Center_1783,1,1,1.0
+Saries Health Center_1784,1,1,1.0
+Saries Health Center_1785,1,1,1.0
+Saries Health Center_1786,1,1,1.0
+Saries Health Center_1787,1,1,1.0
+Saries Health Center_1789,1,1,1.0
+Saries Health Center_1790,1,1,1.0
+Saries Health Center_1791,1,1,1.0
+Saries Health Center_1792,1,1,1.0
+Saries Health Center_1794,1,1,1.0
+Saries Health Center_1795,1,1,1.0
+Saries Health Center_1796,1,1,1.0
+Saries Health Center_1797,1,0,0.0
+Saries Health Center_1798,1,1,1.0
+Saries Health Center_1799,1,1,1.0
+Saries Health Center_1800,1,1,1.0
+Saries Health Center_1801,1,1,1.0
+Saries Health Center_1802,1,0,0.0
+Saries Health Center_1803,1,1,1.0
+Saries Health Center_1804,1,1,1.0
+Saries Health Center_1805,1,1,1.0
+Saries Health Center_1806,1,1,1.0
+Saries Health Center_1807,1,0,0.0
+Saries Health Center_1808,1,1,1.0
+Saries Health Center_1809,1,1,1.0
+Saries Health Center_1810,1,1,1.0
+Saries Health Center_1811,1,1,1.0
+Saries Health Center_1812,1,1,1.0
+Saries Health Center_1813,1,1,1.0
+Saries Health Center_1814,1,1,1.0
+Saries Health Center_1815,1,1,1.0
+Saries Health Center_1816,1,1,1.0
+Saries Health Center_1817,1,1,1.0
+Saries Health Center_1818,1,1,1.0
+Saries Health Center_1819,1,1,1.0
+Saries Health Center_1820,1,1,1.0
+Saries Health Center_1821,1,1,1.0
+Saries Health Center_1822,1,1,1.0
+Saries Health Center_1823,1,1,1.0
+Saries Health Center_1824,1,1,1.0
+Saries Health Center_1825,1,1,1.0
+Saries Health Center_1826,1,1,1.0
+Saries Health Center_1827,1,1,1.0
+Saries Health Center_1828,1,1,1.0
+Saries Health Center_1829,1,1,1.0
+Saries Health Center_1830,1,1,1.0
+Saries Health Center_1831,1,1,1.0
+Saries Health Center_1832,1,1,1.0
+Saries Health Center_1833,1,1,1.0
+Saries Health Center_1834,1,1,1.0
+Saries Health Center_1835,1,1,1.0
+Saries Health Center_1981,1,1,1.0
+Saries Health Center_1982,1,1,1.0
+Saries Health Center_1983,1,1,1.0
+Saries Health Center_1984,1,1,1.0
+Saries Health Center_1985,1,1,1.0
+Saries Health Center_1986,1,1,1.0
+Saries Health Center_1987,1,1,1.0
+Saries Health Center_1988,1,0,0.0
+Saries Health Center_1989,1,1,1.0
+Saries Health Center_2007,1,1,1.0
+Saries Health Center_2008,1,1,1.0
+Saries Health Center_2009,1,1,1.0
+Saries Health Center_2010,1,1,1.0
+Saries Health Center_2011,1,1,1.0
+Saries Health Center_2012,1,1,1.0
+Saries Health Center_2013,1,1,1.0
+Saries Health Center_2014,1,1,1.0
+St Paul Hospital_178,1,1,1.0
+St Paul Hospital_182,1,1,1.0
+St Paul Hospital_186,1,1,1.0
+St Paul Hospital_1867,1,0,0.0
+St Paul Hospital_1869,1,1,1.0
+St Paul Hospital_187,1,1,1.0
+St Paul Hospital_1870,1,1,1.0
+St Paul Hospital_1871,1,0,0.0
+St Paul Hospital_1872,1,1,1.0
+St Paul Hospital_1873,1,1,1.0
+St Paul Hospital_1874,1,0,0.0
+St Paul Hospital_1875,1,0,0.0
+St Paul Hospital_1876,1,1,1.0
+St Paul Hospital_1877,1,1,1.0
+St Paul Hospital_1878,1,1,1.0
+St Paul Hospital_1879,1,1,1.0
+St Paul Hospital_188,1,1,1.0
+St Paul Hospital_1880,1,1,1.0
+St Paul Hospital_1881,1,1,1.0
+St Paul Hospital_1882,1,1,1.0
+St Paul Hospital_1884,1,1,1.0
+St Paul Hospital_1885,1,1,1.0
+St Paul Hospital_1886,2,2,1.0
+St Paul Hospital_1888,1,1,1.0
+St Paul Hospital_189,1,0,0.0
+St Paul Hospital_1893,1,1,1.0
+St Paul Hospital_1897,1,0,0.0
+St Paul Hospital_1898,1,1,1.0
+St Paul Hospital_1900,1,1,1.0
+St Paul Hospital_1901,1,1,1.0
+St Paul Hospital_1903,1,1,1.0
+St Paul Hospital_1904,1,1,1.0
+St Paul Hospital_1906,2,0,0.0
+St Paul Hospital_1907,1,1,1.0
+St Paul Hospital_191,1,1,1.0
+St Paul Hospital_193,1,1,1.0
+St Paul Hospital_194,1,0,0.0
+St Paul Hospital_196,1,1,1.0
+St Paul Hospital_197,1,1,1.0
+St Paul Hospital_199,1,1,1.0
+St Paul Hospital_200,1,0,0.0
+St Paul Hospital_202,1,1,1.0
+St Paul Hospital_205,1,1,1.0
+St Paul Hospital_206,1,1,1.0
+St Paul Hospital_209,1,1,1.0
+St Paul Hospital_212,1,1,1.0
+St Paul Hospital_221,1,1,1.0
+St Paul Hospital_549,1,1,1.0
+St Paul Hospital_551,1,1,1.0
+St Paul Hospital_553,1,1,1.0
+St Paul Hospital_555,1,1,1.0
+St Paul Hospital_558,1,0,0.0
+St Paul Hospital_560,1,1,1.0
+St Paul Hospital_561,2,1,0.5
+St Paul Hospital_564,1,1,1.0
+St Paul Hospital_565,1,1,1.0
+St Paul Hospital_568,1,0,0.0
+St Paul Hospital_570,1,1,1.0
+St Paul Hospital_578,1,1,1.0
+St Paul Hospital_580,1,1,1.0
+St Paul Hospital_582,1,0,0.0
+St Paul Hospital_586,1,1,1.0
+St Paul Hospital_587,1,1,1.0
+St Paul Hospital_589,1,1,1.0
+St Paul Hospital_591,1,1,1.0
+St Paul Hospital_595,2,2,1.0
+St Paul Hospital_602,1,1,1.0
+St Paul Hospital_603,1,1,1.0
+St Paul Hospital_606,1,1,1.0
+St Paul Hospital_610,1,1,1.0
+St Paul Hospital_614,1,1,1.0
+St Paul Hospital_615,1,1,1.0
+St Paul Hospital_814,2,0,0.0
+St Paul Hospital_818,2,1,0.5
+St Paul Hospital_821,1,1,1.0
+St Paul Hospital_822,1,1,1.0
+St Paul Hospital_823,1,1,1.0
+St Paul Hospital_824,1,1,1.0
+St Paul Hospital_826,2,0,0.0
+St Paul Hospital_829,1,1,1.0
+St Paul Hospital_830,2,2,1.0
+St Paul Hospital_832,1,1,1.0
+St Paul Hospital_833,1,1,1.0
+St Paul Hospital_834,1,1,1.0
+St Paul Hospital_836,2,1,0.5
+St Paul Hospital_837,1,1,1.0
+St Paul Hospital_841,3,3,1.0
+St Paul Hospital_842,1,0,0.0
+St Paul Hospital_877,2,2,1.0
+St Paul Hospital_878,1,1,1.0
+St Paul Hospital_884,1,1,1.0
+St Paul Hospital_886,1,1,1.0
+St Paul Hospital_891,1,1,1.0
+St Paul Hospital_895,1,1,1.0
+St Paul Hospital_902,1,1,1.0
+St Paul Hospital_904,1,1,1.0
+St Paul Hospital_912,1,0,0.0
+St Paul Hospital_913,1,1,1.0
+St Paul Hospital_914,1,1,1.0
+St Paul Hospital_921,1,1,1.0
+St Paul Hospital_922,1,0,0.0
+St Paul Hospital_928,2,1,0.5
+St Paul Hospital_929,1,1,1.0
+St Paul Hospital_931,1,1,1.0
+St Paul Hospital_932,1,1,1.0
+St Paul Hospital_933,1,1,1.0
+St Paul Hospital_934,2,1,0.5
+St Paul Hospital_935,1,1,1.0
+St Paul Hospital_936,1,1,1.0
+St Paul Hospital_937,1,1,1.0
+St Paul Hospital_939,1,1,1.0
+St Paul Hospital_942,1,1,1.0
+St Paul Hospital_943,1,1,1.0
+St Paul Hospital_944,1,1,1.0
+St Paul Hospital_945,1,1,1.0
+St Paul Hospital_946,1,1,1.0
+St Paul Hospital_947,1,1,1.0
+St Paul Hospital_948,1,1,1.0
+St Paul Hospital_949,1,1,1.0
+St Paul Hospital_951,1,1,1.0
+St Paul Hospital_952,2,1,0.5
+St Paul Hospital_953,1,1,1.0
+St Paul Hospital_954,2,1,0.5
+St Paul Hospital_955,2,2,1.0
+St Paul Hospital_956,1,1,1.0
+St Paul Hospital_957,1,1,1.0
+St Paul Hospital_958,2,0,0.0
+St Paul Hospital_959,1,1,1.0
+St Paul Hospital_960,1,0,0.0
+St Paul Hospital_961,1,1,1.0
+St Paul Hospital_962,1,1,1.0
+St Paul Hospital_963,1,1,1.0
+St Paul Hospital_964,1,1,1.0
+St Paul Hospital_965,2,1,0.5
+St Paul Hospital_966,1,1,1.0
+St Paul Hospital_967,1,1,1.0
+St Paul Hospital_968,1,1,1.0
+St Paul Hospital_969,2,0,0.0
+St Paul Hospital_970,1,1,1.0
+St Paul Hospital_973,1,1,1.0
+St Paul Hospital_974,1,1,1.0
+St Paul Hospital_975,1,1,1.0
+St Paul Hospital_977,1,0,0.0
+St Paul Hospital_979,1,1,1.0
+St Paul Hospital_980,1,1,1.0
+St Paul Hospital_981,1,1,1.0
+St Paul Hospital_982,1,1,1.0
+St Paul Hospital_983,1,1,1.0
+St Paul Hospital_984,1,1,1.0
+St Paul Hospital_985,1,1,1.0
+St Paul Hospital_986,1,1,1.0
+St Paul Hospital_988,1,0,0.0
+St Paul Hospital_989,1,0,0.0
+St Peter Hospital_2343,2,0,0.0
+St Peter Hospital_2370,1,0,0.0
+St Peter Hospital_2371,1,1,1.0
+St Peter Hospital_2401,1,0,0.0
+St Peter Hospital_2402,1,1,1.0
+St Peter Hospital_2403,1,1,1.0
+St Peter Hospital_2404,1,1,1.0
+St Peter Hospital_2405,1,1,1.0
+St Peter Hospital_2408,1,0,0.0
+St Peter Hospital_2414,1,0,0.0
+St Peter Hospital_2415,1,1,1.0
+St Peter Hospital_2416,1,0,0.0
+St Peter Hospital_2418,1,1,1.0
+St Peter Hospital_2419,2,1,0.5
+St Peter Hospital_2420,1,1,1.0
+St Peter Hospital_279,1,0,0.0
+TAH_2473,2,2,1.0
+TAH_2492,2,2,1.0
+TASH_1006,1,1,1.0
+TASH_1007,2,2,1.0
+TASH_1016,2,2,1.0
+TASH_1018,2,2,1.0
+TASH_1019,1,1,1.0
+TASH_2384,1,1,1.0
+TASH_2465,1,0,0.0
+TASH_2471,1,0,0.0
+TASH_2488,1,1,1.0
+TASH_2489,1,1,1.0
+TASH_2493,2,1,0.5
+Wereda 3 Health Center_1272,1,1,1.0
+Wereda 3 Health Center_1273,1,1,1.0
+Wereda 3 Health Center_1274,1,1,1.0
+Wereda 3 Health Center_1276,1,1,1.0
+Wereda 3 Health Center_1277,1,1,1.0
+Wereda 3 Health Center_1278,1,1,1.0
+Wereda 3 Health Center_1279,2,2,1.0
+Wereda 3 Health Center_1280,1,1,1.0
+Wereda 3 Health Center_1281,2,2,1.0
+Wereda 3 Health Center_1282,1,1,1.0
+Wereda 3 Health Center_1283,1,1,1.0
+Wereda 3 Health Center_1284,2,2,1.0
+Wereda 3 Health Center_1285,2,2,1.0
+Wereda 3 Health Center_1286,2,1,0.5
+Wereda 3 Health Center_1287,1,1,1.0
+Wereda 3 Health Center_1288,1,0,0.0
+Wereda 3 Health Center_1289,1,1,1.0
+Wereda 3 Health Center_1290,2,1,0.5
+Wereda 3 Health Center_1291,1,1,1.0
+Wereda 3 Health Center_1292,1,1,1.0
+Wereda 3 Health Center_1293,1,1,1.0
+Wereda 3 Health Center_1294,1,1,1.0
+Wereda 3 Health Center_1295,1,1,1.0
+Wereda 3 Health Center_1296,1,1,1.0
+Wereda 3 Health Center_1297,1,1,1.0
+Wereda 3 Health Center_1298,1,1,1.0
+Wereda 3 Health Center_1299,1,1,1.0
+Wereda 3 Health Center_1300,2,2,1.0
+Wereda 3 Health Center_1301,1,1,1.0
+Wereda 3 Health Center_1302,1,1,1.0
+Wereda 3 Health Center_1303,1,1,1.0
+Wereda 3 Health Center_1304,1,1,1.0
+Wereda 3 Health Center_1305,1,1,1.0
+Wereda 3 Health Center_1306,1,1,1.0
+Wereda 3 Health Center_1307,1,1,1.0
+Wereda 3 Health Center_1308,1,1,1.0
+Wereda 3 Health Center_1309,1,1,1.0
+Wereda 3 Health Center_1310,1,1,1.0
+Wereda 3 Health Center_1311,2,2,1.0
+Wereda 3 Health Center_1312,1,1,1.0
+Wereda 3 Health Center_1313,1,1,1.0
+Wereda 3 Health Center_1314,2,2,1.0
+Wereda 3 Health Center_1315,2,1,0.5
+Wereda 3 Health Center_1316,1,1,1.0
+Wereda 3 Health Center_1317,1,1,1.0
+Wereda 3 Health Center_1318,1,1,1.0
+Wereda 3 Health Center_1319,1,1,1.0
+Wereda 3 Health Center_1320,1,1,1.0
+Wereda 3 Health Center_1321,1,1,1.0
+Wereda 3 Health Center_1322,2,2,1.0
+Wereda 3 Health Center_1323,1,1,1.0
+Wereda 3 Health Center_222,1,1,1.0
+Wereda 3 Health Center_224,1,1,1.0
+Wereda 3 Health Center_225,1,1,1.0
+Wereda 3 Health Center_2422,2,2,1.0
+Wereda 3 Health Center_2423,3,3,1.0
+Wereda 3 Health Center_2424,1,1,1.0
+Wereda 3 Health Center_2426,3,3,1.0
+Wereda 3 Health Center_2427,1,1,1.0
+Wereda 3 Health Center_2428,1,1,1.0
+Wereda 3 Health Center_2429,4,4,1.0
+Wereda 3 Health Center_2430,2,2,1.0
+Wereda 3 Health Center_2431,1,1,1.0
+Wereda 3 Health Center_2433,1,1,1.0
+Wereda 3 Health Center_2434,1,1,1.0
+Wereda 3 Health Center_2435,2,2,1.0
+Wereda 3 Health Center_2436,1,1,1.0
+Wereda 3 Health Center_2456,3,1,0.3333333333333333
+Wereda 3 Health Center_2457,1,1,1.0
+Wereda 3 Health Center_2458,3,3,1.0
+Wereda 3 Health Center_2460,2,1,0.5
+Wereda 3 Health Center_2462,1,0,0.0
+Wereda 3 Health Center_2463,1,1,1.0
+Wereda 3 Health Center_268,1,1,1.0
+Wereda 3 Health Center_280,1,1,1.0
+Wereda 3 Health Center_281,1,1,1.0
+Wereda 3 Health Center_282,1,0,0.0
+Wereda 3 Health Center_284,1,1,1.0
+Wereda 3 Health Center_481,1,0,0.0
+Wereda 3 Health Center_482,1,1,1.0
+Wereda 3 Health Center_483,1,1,1.0
+Wereda 3 Health Center_485,1,0,0.0
+Wereda 3 Health Center_486,1,1,1.0
+Wereda 3 Health Center_488,2,2,1.0
+Wereda 3 Health Center_490,1,1,1.0
+Wereda 3 Health Center_491,1,1,1.0
+Wereda 3 Health Center_492,1,1,1.0
+Wereda 3 Health Center_493,1,1,1.0
+Wereda 3 Health Center_494,2,2,1.0
+Wereda 3 Health Center_511,1,1,1.0
+Wereda 3 Health Center_512,2,2,1.0
+Wereda 3 Health Center_514,1,1,1.0
+Wereda 3 Health Center_517,1,1,1.0
+Wereda 3 Health Center_518,1,1,1.0
+Wereda 3 Health Center_519,1,1,1.0
+Wereda 3 Health Center_527,1,1,1.0
+Wereda 3 Health Center_528,1,1,1.0
+Wereda 3 Health Center_529,1,1,1.0
+Wereda 3 Health Center_531,1,1,1.0
+Wereda 3 Health Center_532,1,1,1.0
+Wereda 3 Health Center_533,2,2,1.0
+Wereda 3 Health Center_535,1,1,1.0
+Wereda 3 Health Center_538,1,1,1.0
+Wereda 3 Health Center_539,2,2,1.0
+Wereda 3 Health Center_540,2,2,1.0
+Wereda 3 Health Center_541,1,1,1.0
+Wereda 3 Health Center_543,2,2,1.0
+Wereda 3 Health Center_544,2,2,1.0
+Woreda 3 Health Center_487,1,1,1.0
+Woreda 3 Health Center_536,1,1,1.0
+Woreda 3 Health Center_542,1,1,1.0
+Yekatit 12 Hospital_1979,1,0,0.0
+Yekatit 12 Hospital_2031,1,1,1.0
+Yekatit 12 Hospital_295,1,1,1.0
+Yekatit 12 Hospital_296,1,1,1.0
+Yekatit 12 Hospital_297,1,1,1.0
+Yekatit 12 Hospital_298,4,4,1.0
+Yekatit 12 Hospital_299,1,1,1.0
+Yekatit 12 Hospital_300,6,6,1.0
+Yekatit 12 Hospital_301,2,1,0.5
+Yekatit 12 Hospital_302,2,2,1.0
+Yekatit 12 Hospital_303,1,0,0.0
+Yekatit 12 Hospital_304,5,5,1.0
+Yekatit 12 Hospital_305,3,3,1.0
+Yekatit 12 Hospital_306,1,0,0.0
+Yekatit 12 Hospital_307,2,1,0.5
+Yekatit 12 Hospital_308,1,1,1.0
+Yekatit 12 Hospital_309,1,1,1.0
+Yekatit 12 Hospital_310,1,1,1.0
+Yekatit 12 Hospital_312,1,1,1.0
+Yekatit 12 Hospital_313,2,1,0.5
+Yekatit 12 Hospital_315,2,1,0.5
+Yekatit 12 Hospital_316,1,1,1.0
+ZMH_2,1,0,0.0
+Zewditu Hospital l_1052,1,1,1.0
+Zewditu Hospital_1043,1,1,1.0
+Zewditu Hospital_1044,1,1,1.0
+Zewditu Hospital_1045,1,1,1.0
+Zewditu Hospital_1046,1,1,1.0
+Zewditu Hospital_1047,1,1,1.0
+Zewditu Hospital_1048,1,0,0.0
+Zewditu Hospital_1049,2,2,1.0
+Zewditu Hospital_1050,1,1,1.0
+Zewditu Hospital_1051,1,1,1.0
+Zewditu Hospital_1053,1,1,1.0
+Zewditu Hospital_1054,2,0,0.0
+Zewditu Hospital_1055,1,1,1.0
+Zewditu Hospital_1056,2,2,1.0
+Zewditu Hospital_1057,1,1,1.0
+Zewditu Hospital_1058,2,2,1.0
+Zewditu Hospital_1059,2,1,0.5
+Zewditu Hospital_1062,1,1,1.0
+Zewditu Hospital_1063,2,1,0.5
+Zewditu Hospital_1066,2,2,1.0
+Zewditu Hospital_1067,2,2,1.0
+Zewditu Hospital_1068,1,1,1.0
+Zewditu Hospital_1069,1,1,1.0
+Zewditu Hospital_1071,1,1,1.0
+Zewditu Hospital_1072,1,1,1.0
+Zewditu Hospital_1345,1,1,1.0
+Zewditu Hospital_1466,1,1,1.0
+Zewditu Hospital_1467,1,1,1.0
+Zewditu Hospital_1468,1,1,1.0
+Zewditu Hospital_1470,1,1,1.0
+Zewditu Hospital_1471,1,1,1.0
+Zewditu Hospital_1472,1,1,1.0
+Zewditu Hospital_1473,1,1,1.0
+Zewditu Hospital_1474,1,1,1.0
+Zewditu Hospital_1475,3,3,1.0
+Zewditu Hospital_1476,1,1,1.0
+Zewditu Hospital_1477,1,1,1.0
+Zewditu Hospital_1478,1,1,1.0
+Zewditu Hospital_1481,1,1,1.0
+Zewditu Hospital_1482,1,1,1.0
+Zewditu Hospital_1483,1,1,1.0
+Zewditu Hospital_1484,1,1,1.0
+Zewditu Hospital_1485,2,1,0.5
+Zewditu Hospital_1486,1,1,1.0
+Zewditu Hospital_1487,1,1,1.0
+Zewditu Hospital_1488,1,1,1.0
+Zewditu Hospital_1489,1,1,1.0
+Zewditu Hospital_1490,1,1,1.0
+Zewditu Hospital_1492,1,1,1.0
+Zewditu Hospital_1493,1,1,1.0
+Zewditu Hospital_1494,1,1,1.0
+Zewditu Hospital_1495,1,1,1.0
+Zewditu Hospital_1497,1,1,1.0
+Zewditu Hospital_1498,2,1,0.5
+Zewditu Hospital_1499,1,1,1.0
+Zewditu Hospital_1500,1,1,1.0
+Zewditu Hospital_1501,1,1,1.0
+Zewditu Hospital_1502,1,1,1.0
+Zewditu Hospital_1503,1,1,1.0
+Zewditu Hospital_1505,1,1,1.0
+Zewditu Hospital_1506,1,1,1.0
+Zewditu Hospital_1507,1,1,1.0
+Zewditu Hospital_1508,1,1,1.0
+Zewditu Hospital_1509,1,1,1.0
+Zewditu Hospital_1510,1,1,1.0
+Zewditu Hospital_1511,1,1,1.0
+Zewditu Hospital_1512,1,1,1.0
+Zewditu Hospital_1513,1,1,1.0
+Zewditu Hospital_1514,1,1,1.0
+Zewditu Hospital_1515,2,1,0.5
+Zewditu Hospital_1516,1,1,1.0
+Zewditu Hospital_1517,1,1,1.0
+Zewditu Hospital_1518,1,1,1.0
+Zewditu Hospital_1519,1,1,1.0
+Zewditu Hospital_1520,1,1,1.0
+Zewditu Hospital_1521,1,1,1.0
+Zewditu Hospital_1522,1,1,1.0
+Zewditu Hospital_1523,1,1,1.0
+Zewditu Hospital_1525,1,1,1.0
+Zewditu Hospital_1526,1,1,1.0
+Zewditu Hospital_1527,1,1,1.0
+Zewditu Hospital_1528,1,1,1.0
+Zewditu Hospital_1529,1,1,1.0
+Zewditu Hospital_1530,1,1,1.0
+Zewditu Hospital_1531,1,1,1.0
+Zewditu Hospital_1532,1,1,1.0
+Zewditu Hospital_1533,1,1,1.0
+Zewditu Hospital_1537,1,1,1.0
+Zewditu Hospital_1538,1,1,1.0
+Zewditu Hospital_1539,1,1,1.0
+Zewditu Hospital_1540,1,1,1.0
+Zewditu Hospital_1541,1,1,1.0
+Zewditu Hospital_1542,1,1,1.0
+Zewditu Hospital_1543,1,1,1.0
+Zewditu Hospital_1545,1,1,1.0
+Zewditu Hospital_1546,1,1,1.0
+Zewditu Hospital_1547,1,1,1.0
+Zewditu Hospital_1549,1,1,1.0
+Zewditu Hospital_1550,1,1,1.0
+Zewditu Hospital_1551,1,1,1.0
+Zewditu Hospital_1552,1,1,1.0
+Zewditu Hospital_1553,1,1,1.0
+Zewditu Hospital_1554,1,1,1.0
+Zewditu Hospital_1555,1,1,1.0
+Zewditu Hospital_1556,1,1,1.0
+Zewditu Hospital_1557,1,1,1.0
+Zewditu Hospital_1560,1,1,1.0
+Zewditu Hospital_1561,1,1,1.0
+Zewditu Hospital_1562,1,1,1.0
+Zewditu Hospital_1563,1,1,1.0
+Zewditu Hospital_1564,1,1,1.0
+Zewditu Hospital_1565,1,0,0.0
+Zewditu Hospital_1566,1,0,0.0
+Zewditu Hospital_1567,1,1,1.0
+Zewditu Hospital_1568,1,1,1.0
+Zewditu Hospital_1569,1,1,1.0
+Zewditu Hospital_1570,1,1,1.0
+Zewditu Hospital_1571,1,1,1.0
+Zewditu Hospital_1572,1,1,1.0
+Zewditu Hospital_1573,1,1,1.0
+Zewditu Hospital_1574,1,1,1.0
+Zewditu Hospital_1575,1,1,1.0
+Zewditu Hospital_1576,1,1,1.0
+Zewditu Hospital_1577,2,2,1.0
+Zewditu Hospital_1579,1,1,1.0
+Zewditu Hospital_1580,1,1,1.0
+Zewditu Hospital_1581,1,1,1.0
+Zewditu Hospital_1582,1,1,1.0
+Zewditu Hospital_1583,1,1,1.0
+Zewditu Hospital_1585,1,1,1.0
+Zewditu Hospital_1586,1,1,1.0
+Zewditu Hospital_1587,1,1,1.0
+Zewditu Hospital_1588,1,1,1.0
+Zewditu Hospital_1589,1,1,1.0
+Zewditu Hospital_1590,1,1,1.0
+Zewditu Hospital_1591,1,1,1.0
+Zewditu Hospital_1592,1,1,1.0
+Zewditu Hospital_1593,2,1,0.5
+Zewditu Hospital_1595,1,0,0.0
+Zewditu Hospital_1597,1,1,1.0
+Zewditu Hospital_1598,1,1,1.0
+Zewditu Hospital_1599,2,2,1.0
+Zewditu Hospital_1600,2,2,1.0
+Zewditu Hospital_1601,1,1,1.0
+Zewditu Hospital_1602,1,1,1.0
+Zewditu Hospital_1603,1,1,1.0
+Zewditu Hospital_1604,1,1,1.0
+Zewditu Hospital_1605,1,1,1.0
+Zewditu Hospital_1606,1,1,1.0
+Zewditu Hospital_1607,1,0,0.0
+Zewditu Hospital_1608,1,1,1.0
+Zewditu Hospital_1609,1,1,1.0
+Zewditu Hospital_1610,2,2,1.0
+Zewditu Hospital_1611,1,1,1.0
+Zewditu Hospital_1612,1,1,1.0
+Zewditu Hospital_1613,1,1,1.0
+Zewditu Hospital_1614,1,1,1.0
+Zewditu Hospital_1615,1,1,1.0
+Zewditu Hospital_1616,1,1,1.0
+Zewditu Hospital_1617,1,1,1.0
+Zewditu Hospital_1618,1,1,1.0
+Zewditu Hospital_1619,1,1,1.0
+Zewditu Hospital_1620,2,2,1.0
+Zewditu Hospital_1621,2,2,1.0
+Zewditu Hospital_1622,2,2,1.0
+Zewditu Hospital_1623,2,2,1.0
+Zewditu Hospital_1624,2,2,1.0
+Zewditu Hospital_1625,2,2,1.0
+Zewditu Hospital_1626,2,2,1.0
+Zewditu Hospital_1627,1,1,1.0
+Zewditu Hospital_1628,1,1,1.0
+Zewditu Hospital_1629,1,1,1.0
+Zewditu Hospital_1630,1,1,1.0
+Zewditu Hospital_1631,1,1,1.0
+Zewditu Hospital_1632,1,0,0.0
+Zewditu Hospital_1633,1,1,1.0
+Zewditu Hospital_1634,1,1,1.0
+Zewditu Hospital_1635,1,0,0.0
+Zewditu Hospital_1636,1,1,1.0
+Zewditu Hospital_1637,2,1,0.5
+Zewditu Hospital_1639,2,2,1.0
+Zewditu Hospital_1640,2,1,0.5
+Zewditu Hospital_1642,2,2,1.0
+Zewditu Hospital_1643,2,2,1.0
+Zewditu Hospital_1644,1,1,1.0
+Zewditu Hospital_1645,2,2,1.0
+Zewditu Hospital_1646,1,1,1.0
+Zewditu Hospital_1647,2,2,1.0
+Zewditu Hospital_1648,1,1,1.0
+Zewditu Hospital_1649,1,1,1.0
+Zewditu Hospital_1650,1,1,1.0
+Zewditu Hospital_1651,1,1,1.0
+Zewditu Hospital_1652,1,1,1.0
+Zewditu Hospital_1653,1,1,1.0
+Zewditu Hospital_1654,1,1,1.0
+Zewditu Hospital_1655,1,1,1.0
+Zewditu Hospital_1656,1,0,0.0
+Zewditu Hospital_1657,1,1,1.0
+Zewditu Hospital_1658,1,1,1.0
+Zewditu Hospital_1659,1,1,1.0
+Zewditu Hospital_1660,1,1,1.0
+Zewditu Hospital_1661,1,1,1.0
+Zewditu Hospital_1662,1,1,1.0
+Zewditu Hospital_1663,1,1,1.0
+Zewditu Hospital_1664,1,1,1.0
+Zewditu Hospital_1665,2,2,1.0
+Zewditu Hospital_1666,3,2,0.6666666666666666
+Zewditu Hospital_1667,1,1,1.0
+Zewditu Hospital_1669,1,1,1.0
+Zewditu Hospital_1670,1,1,1.0
+Zewditu Hospital_1671,2,2,1.0
+Zewditu Hospital_1672,1,1,1.0
+Zewditu Hospital_1673,1,1,1.0
+Zewditu Hospital_1674,1,1,1.0
+Zewditu Hospital_1675,1,1,1.0
+Zewditu Hospital_1676,1,1,1.0
+Zewditu Hospital_1677,2,2,1.0
+Zewditu Hospital_1678,1,1,1.0
+Zewditu Hospital_1679,2,2,1.0
+Zewditu Hospital_1681,1,1,1.0
+Zewditu Hospital_1682,2,2,1.0
+Zewditu Hospital_1683,3,2,0.6666666666666666
+Zewditu Hospital_1684,2,2,1.0
+Zewditu Hospital_1685,2,2,1.0
+Zewditu Hospital_1686,1,1,1.0
+Zewditu Hospital_1687,1,1,1.0
+Zewditu Hospital_1688,1,1,1.0
+Zewditu Hospital_1689,2,2,1.0
+Zewditu Hospital_1690,1,1,1.0
+Zewditu Hospital_1691,2,2,1.0
+Zewditu Hospital_1692,1,1,1.0
+Zewditu Hospital_1693,2,2,1.0
+Zewditu Hospital_1694,2,0,0.0
+Zewditu Hospital_1695,1,1,1.0
+Zewditu Hospital_1696,1,1,1.0
+Zewditu Hospital_1697,2,2,1.0
+Zewditu Hospital_1698,1,1,1.0
+Zewditu Hospital_1896,1,1,1.0
+Zewditu Hospital_849,1,1,1.0
+Zewditu Hospital_851,1,1,1.0
+Zewditu Hospital_852,1,1,1.0
+Zewditu Hospital_853,1,1,1.0
+kotebe Health Center_2368,1,1,1.0
+nan_1793,1,1,1.0

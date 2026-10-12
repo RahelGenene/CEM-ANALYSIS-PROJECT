@@ -1,0 +1,5 @@
+Model,CV_ROC_AUC_mean,CV_ROC_AUC_std,Accuracy,Precision,Recall,F1,Test_ROC_AUC
+Decision Tree,0.685,0.034,0.615,0.524,0.604,0.561,0.643
+Random Forest,0.719,0.022,0.639,0.551,0.619,0.583,0.687
+SVM,0.562,0.016,0.544,0.442,0.455,0.449,0.554
+Gradient Boosting,0.709,0.011,0.645,0.571,0.52,0.544,0.657

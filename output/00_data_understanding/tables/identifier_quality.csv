@@ -1,0 +1,5 @@
+metric,value
+rows in export,2506
+rows with a CEM number,1838
+distinct CEM numbers,963
+CEM numbers used by more than one row,303
